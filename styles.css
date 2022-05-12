@@ -1,0 +1,970 @@
+img.Oval {
+    width: 38.125rem;
+    height: 38.125rem;
+    margin: 0 51rem 10.813rem 0;
+    padding: 1.25rem 31.688rem 35.125rem 2rem;
+    object-fit: contain;
+    background-image: linear-gradient(147deg, rgba(141, 141, 236, 0.17) 46%, rgba(84, 84, 212, 0) 86%);
+  }
+  img.Omega {
+
+    width: 4.438rem;
+  
+    height: 1.75rem;
+  
+    object-fit: contain;
+  
+    font-family: CircularStd;
+  
+    font-size: 1.35rem;
+  
+    font-weight: 900;
+  
+    font-stretch: normal;
+  
+    font-style: normal;
+  
+    line-height: normal;
+  
+    letter-spacing: -0.68px;
+  
+    color: var(--dark-grey);
+  
+  }
+  .Landing-1 {
+
+    width: 90rem;
+  
+    height: 316.438rem;
+  
+    background-color: var(--white);
+  
+  }
+  .Redesigned-how-you {
+
+    width: 38.875rem;
+  
+    height: 14.188rem;
+  
+    margin: 0 0 1.375rem;
+  
+    font-family: CircularStd;
+  
+    font-size: 4.5rem;
+  
+    font-weight: bold;
+  
+    font-stretch: normal;
+  
+    font-style: normal;
+  
+    line-height: 1.05;
+  
+    letter-spacing: -2.25px;
+  
+    color: var(--dark-grey);
+  
+  }
+  .Demos-Pages-Support {
+
+    width: 12.75rem;
+  
+    height: 1.125rem;
+  
+    margin: 0.75rem 2.125rem 1.25rem 12.75rem;
+  
+    padding: 0.5rem 9rem 0.313rem 3.25rem;
+  
+    font-family: CircularStd;
+  
+    font-size: 0.9rem;
+  
+    font-weight: normal;
+  
+    font-stretch: normal;
+  
+    font-style: normal;
+  
+    line-height: normal;
+  
+    letter-spacing: -0.45px;
+  
+    text-align: right;
+  
+    color: var(--dark-grey);
+  
+  }
+  
+  .Demos-Pages-Support .text-style-1 {
+  
+    color: var(--dark-periwinkle);
+  
+  }
+  .BG {
+
+    width: 7.938rem;
+  
+    height: 2.563rem;
+  
+    margin: 0 0 0.563rem 2.063rem;
+  
+    padding: 0.75rem 0 0.688rem;
+  
+    border-radius: 4.5px;
+  
+    border: solid 0.9px #c31a12;
+  
+    background-color: #f04037;
+  
+  }
+  .Rectangle {
+
+    width: 12.75rem;
+  
+    height: 11.188rem;
+  
+    padding: 0 0 1.188rem 0.063rem;
+  
+    border-radius: 9px;
+  
+    box-shadow: 0 47px 49px 0 rgba(65, 62, 101, 0.3);
+  
+    border: solid 0.9px var(--pale-grey);
+  
+    background-color: var(--white);
+  
+  } 
+  .SaaS-Landing-Startup {
+
+    width: 6.438rem;
+  
+    height: 9rem;
+  
+    margin: 0.875rem 3.25rem 0 1.5rem;
+  
+    font-family: CircularStd;
+  
+    font-size: 0.9rem;
+  
+    font-weight: normal;
+  
+    font-stretch: normal;
+  
+    font-style: normal;
+  
+    line-height: 2.5;
+  
+    letter-spacing: -0.45px;
+  
+    color: var(--dark-grey);
+  
+  }
+  
+  .SaaS-Landing-Startup .text-style-1 {
+  
+    color: var(--dark-periwinkle);
+  
+  }
+  
+  
+  img.iPhone-Body {
+    width: 18.563rem;
+    height: 37.063rem;
+    margin: 0 0 1.063rem;
+    padding: 2.063rem 1.125rem 0.938rem 1rem;
+    object-fit: contain;
+    background-color: rgba(0, 0, 0, 0);
+  }
+  img.Path {
+    width: 0.875rem;
+    height: 0.688rem;
+    object-fit: contain;
+    background-color: var(--white);
+  }
+  .Create-custom-landin {
+    width: 30.125rem;
+    height: 6.563rem;
+    margin: 1.375rem 8.563rem 2rem 0.188rem;
+    font-family: CircularStd;
+    font-size: 1.181rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.86;
+    letter-spacing: -0.59px;
+    color: #696871;
+  }
+  .Get-Started {
+    width: 5.938rem;
+    height: 1.5rem;
+    font-family: CircularStd;
+    font-size: 1.181rem;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.59px;
+    text-align: center;
+    color: var(--white);
+  }
+
+
+.BG {
+
+  width: 11.25rem;
+
+  height: 3.375rem;
+
+  margin: 2rem 27.438rem 0.938rem 0.188rem;
+
+  padding: 0.938rem 2.625rem 0.938rem 2.688rem;
+
+  border-radius: 4.5px;
+
+  border: solid 0.9px #c31a12;
+
+  background-color: #f0544c;
+
+}
+.Watch-the-intro-vide {
+    width: 8.313rem;
+    height: 1.125rem;
+    margin: 0 0 0 0.563rem;
+    font-family: CircularStd;
+    font-size: 0.9rem;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.45px;
+    color: var(--dark-periwinkle);
+  }
+  .Popular-teams-who-us {
+    width: 21.438rem;
+    height: 1.563rem;
+    margin: 0 1.938rem 1.938rem 0.125rem;
+    font-family: CircularStd;
+    font-size: 1.013rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: -0.51px;
+    color: #696871;
+  }
+  .Line {
+
+    width: 52.719rem;
+  
+    height: 0.125rem;
+  
+    margin: 0.875rem 0 2.5rem 1.938rem;
+  
+    border: solid 0.9px var(--pale-grey);
+  
+  }
+  img.logo-1 {
+    width: 8.063rem;
+    height: 1.75rem;
+    margin: 0.063rem 7.563rem 0.188rem 0;
+    object-fit: contain;
+    opacity: 0.6;
+    background-color: var(--dusk);
+  }
+  img.Appointment-with-the {
+    width: 12.188rem;
+    height: 2.25rem;
+    margin: 0 0 0 0.75rem;
+    object-fit: contain;
+    font-family: CircularStd;
+    font-size: 0.9rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.45px;
+    color: var(--dark-grey);
+  }
+  .Rectangle {
+    width: 17.188rem;
+    height: 4.5rem;
+    margin: 16.688rem 0 7.813rem 14.438rem;
+    padding: 1.125rem 1.25rem;
+    border-radius: 7.2px;
+    box-shadow: 0 29px 31px 0 rgba(28, 27, 32, 0.2);
+    background-color: #fedc5a;
+  }
+  .Oval {
+    width: 1.75rem;
+    height: 1.75rem;
+    margin: 0 0.875rem 0 0;
+    padding: 0.563rem 0.375rem 0.5rem 0.438rem;
+    background-color: #fedc5a;
+  }
+  .Rectangle {
+    width: 17.188rem;
+    height: 3.688rem;
+    padding: 0.938rem 1.688rem 1rem 1rem;
+    border-radius: 7.2px;
+    box-shadow: 0 29px 31px 0 rgba(28, 27, 32, 0.2);
+    background-color: var(--dark-periwinkle);
+  }
+  .You-have-successfull {
+
+    width: 11.875rem;
+  
+    height: 1.125rem;
+  
+    margin: 0.375rem 0 0.25rem 0.875rem;
+  
+    font-family: CircularStd;
+  
+    font-size: 0.9rem;
+  
+    font-weight: normal;
+  
+    font-stretch: normal;
+  
+    font-style: normal;
+  
+    line-height: normal;
+  
+    letter-spacing: -0.45px;
+  
+    color: var(--white);
+  
+  }
+  .Design {
+    width: 16.438rem;
+    height: 34.063rem;
+  }
+  img.logo-2 {
+    width: 5.875rem;
+    height: 1.5rem;
+    margin: 0.25rem 7.563rem;
+    object-fit: contain;
+    opacity: 0.6;
+    background-color: var(--dusk);
+  }
+  .Landing-1 {
+    width: 90rem;
+    height: 316.438rem;
+    background-color: var(--white);
+  }
+  img.logo-3 {
+    width: 7.625rem;
+    height: 1.438rem;
+    margin: 0.25rem 7.625rem 0.313rem 7.563rem;
+    object-fit: contain;
+    opacity: 0.6;
+    background-color: var(--dusk);
+  }
+  img.BG {
+    width: 89.75rem;
+    height: 52.438rem;
+    margin: 0 0 0.313rem 0.25rem;
+    padding: 9.375rem 13rem 10.5rem 13.813rem;
+    object-fit: contain;
+  }
+  img.logo-4 {
+    width: 4.75rem;
+    height: 2rem;
+    margin: 0 7.563rem 0 7.625rem;
+    object-fit: contain;
+    opacity: 0.6;
+    background-color: var(--dusk);
+  }
+  img.logo-5 {
+    width: 5.813rem;
+    height: 1.5rem;
+    margin: 0.25rem 0 0.25rem 7.563rem;
+    object-fit: contain;
+    opacity: 0.6;
+    background-color: var(--dusk);
+  }
+  .BG {
+    width: 14.375rem;
+    height: 15.438rem;
+    margin: 0 1.688rem 1.688rem 0;
+    padding: 1.438rem 1.625rem 1.625rem 1.563rem;
+    border-radius: 9px;
+    background-color: var(--white);
+  }
+  img.layout-11 {
+    width: 1.375rem;
+    height: 1.625rem;
+    object-fit: contain;
+  }
+  .Multiple-Layouts {
+
+    width: 11.188rem;
+  
+    height: 1.75rem;
+  
+    margin: 1.25rem 0 0.688rem;
+  
+    font-family: CircularStd;
+  
+    font-size: 1.35rem;
+  
+    font-weight: bold;
+  
+    font-stretch: normal;
+  
+    font-style: normal;
+  
+    line-height: normal;
+  
+    letter-spacing: -0.68px;
+  
+    color: var(--dark-grey);
+  
+  }
+  
+
+  .With-lots-of-unique {
+    width: 11.188rem;
+    height: 4.75rem;
+    margin: 0.688rem 0 0;
+    font-family: CircularStd;
+    font-size: 0.9rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: -0.45px;
+    color: #696871;
+  }
+  .BG {
+    width: 14.375rem;
+    height: 15.438rem;
+    margin: 0 0 1.688rem 1.688rem;
+    padding: 1.438rem 1.625rem 1.625rem 1.563rem;
+    border-radius: 9px;
+    box-shadow: 0 47px 49px 0 rgba(65, 62, 101, 0.3);
+    background-color: var(--white);
+  }
+  img.sidebar {
+    width: 1.938rem;
+    height: 1.625rem;
+    object-fit: contain;
+  }
+  .Oval {
+    width: 3.875rem;
+    height: 3.875rem;
+    padding: 1.188rem 0.938rem 1.063rem 1rem;
+    background-color: rgba(254, 220, 90, 0.1);
+  }
+  .Oval {
+    width: 3.875rem;
+    height: 3.875rem;
+    padding: 1.188rem 1.188rem 1.063rem 1.313rem;
+    background-color: rgba(240, 64, 55, 0.1);
+  }
+  .Fully-Responsive {
+    width: 11.188rem;
+    height: 1.75rem;
+    margin: 1.25rem 0 0.688rem;
+    font-family: CircularStd;
+    font-size: 1.35rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.68px;
+    color: var(--dark-grey);
+  }
+  .With-lots-of-unique {
+    width: 11.188rem;
+    height: 4.75rem;
+    margin: 0.688rem 0 0;
+    font-family: CircularStd;
+    font-size: 0.9rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: -0.45px;
+    color: #696871;
+  }
+  .Build-a-perfect-land {
+    width: 28.5rem;
+    height: 7.875rem;
+    margin: 0 0.313rem 1.75rem 0.063rem;
+    font-family: CircularStd;
+    font-size: 3.375rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: -1.69px;
+    color: var(--white);
+  }
+  .Create-custom-landin {
+    width: 28.875rem;
+    height: 6.563rem;
+    margin: 1.75rem 0 2.188rem;
+    font-family: CircularStd;
+    font-size: 1.181rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.86;
+    letter-spacing: -0.59px;
+    color: var(--white-70);
+  }
+  .BG {
+    width: 12.125rem;
+    height: 3.375rem;
+    padding: 0.938rem 0;
+    border-radius: 4.5px;
+    border: solid 0.9px var(--pale-grey);
+  }
+  .Save-tons-of-time-on {
+    width: 29.563rem;
+    height: 7.875rem;
+    margin: 0 0 1rem;
+    font-family: CircularStd;
+    font-size: 3.375rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: -1.69px;
+    color: var(--dark-grey);
+  }
+  img.Img {
+    width: 21.375rem;
+    height: 31.875rem;
+    margin: 0 1.625rem 1.75rem 6.5rem;
+    object-fit: contain;
+  }
+  .Rectangle {
+    width: 17.188rem;
+    height: 6.375rem;
+    margin: 19.688rem 12.313rem 7.563rem 0;
+    padding: 1.063rem 1.25rem;
+    border-radius: 9px;
+    box-shadow: 0 29px 31px 0 rgba(28, 27, 32, 0.2);
+    background-color: #fedc5a;
+  }
+  img.Next-meeting-on-30-m {
+    width: 12.188rem;
+    height: 1rem;
+    margin: 0 0 0.25rem 0.75rem;
+    object-fit: contain;
+    opacity: 0.48;
+    font-family: CircularStd;
+    font-size: 0.788rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.39px;
+    color: var(--dark-grey);
+  }
+  img.Project-Discussion-w {
+    width: 10.688rem;
+    height: 3rem;
+    margin: 0.25rem 1.563rem 0 0.688rem;
+    object-fit: contain;
+    font-family: CircularStd;
+    font-size: 1.181rem;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.59px;
+    color: var(--dark-grey);
+  }
+  .Path {
+    width: 0.688rem;
+    height: 0.688rem;
+    background-color: var(--white);
+  }
+  .Oval {
+    width: 1.75rem;
+    height: 1.75rem;
+    margin: 0.25rem 0.688rem 2.25rem 0;
+    padding: 0.5rem 0.5rem 0.438rem 0.563rem;
+    background-color: var(--dark-periwinkle);
+  }
+  .Rectangle {
+    width: 17.188rem;
+    height: 6.375rem;
+    margin: 19.688rem 12.313rem 7.563rem 0;
+    padding: 1.063rem 1.25rem;
+    border-radius: 9px;
+    box-shadow: 0 29px 31px 0 rgba(28, 27, 32, 0.2);
+    background-color: #fedc5a;
+  }
+  .BG {
+    width: 11.313rem;
+    height: 3.375rem;
+    margin: 2rem 18.063rem 0 0.188rem;
+    padding: 0.938rem 0;
+    border-radius: 4.5px;
+    border: solid 0.9px #c31a12;
+    background-color: #f04037;
+  }
+  img.BG {
+    width: 21.375rem;
+    height: 31.813rem;
+    object-fit: contain;
+    border-radius: 9px;
+    box-shadow: 0 47px 49px 0 rgba(65, 62, 101, 0.3);
+  }
+  .Rectangle {
+    width: 17.188rem;
+    height: 6.375rem;
+    margin: 7.625rem 10.688rem 19.875rem 0;
+    padding: 1.063rem 1.25rem;
+    border-radius: 9px;
+    box-shadow: 0 29px 31px 0 rgba(28, 27, 32, 0.2);
+    background-color: #f04037;
+  }
+  img.Youve-got-a-new-pro {
+    width: 10.688rem;
+    height: 3rem;
+    margin: 0.25rem 1.563rem 0 0.688rem;
+    object-fit: contain;
+    font-family: CircularStd;
+    font-size: 1.181rem;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.59px;
+    color: var(--white);
+  }
+  .Its-everything-you {
+    width: 29rem;
+    height: 7.875rem;
+    margin: 0 0.188rem 1.125rem 0;
+    font-family: CircularStd;
+    font-size: 3.375rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: -1.69px;
+    color: var(--dark-grey);
+  }
+  .Create-custom-landin {
+    width: 29rem;
+    height: 6.563rem;
+    margin: 1.125rem 0 2.313rem 0.188rem;
+    font-family: CircularStd;
+    font-size: 1.181rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.86;
+    letter-spacing: -0.59px;
+    color: #696871;
+  }
+  .Rectangle-3 {
+    width: 90rem;
+    height: 52.813rem;
+    margin: 0.375rem 0 0;
+    padding: 11.563rem 18.5rem 7.375rem 7.313rem;
+    background-color: #f7f7fb;
+  }
+  .BG {
+    width: 20.188rem;
+    height: 5.375rem;
+    margin: 0 0.063rem 0 0;
+    padding: 1.125rem 15.938rem 1.125rem 1.125rem;
+    border-radius: 9px;
+    border: solid 0.9px var(--pale-grey);
+    background-color: var(--white);
+  }
+  img.Mobile-First-Design {
+    width: 14.875rem;
+    height: 3rem;
+    margin: 1.125rem 0 1.25rem 5.375rem;
+    object-fit: contain;
+    font-family: CircularStd;
+    font-size: 1.181rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.59px;
+    color: var(--dark-grey);
+  }
+  
+  .Mobile-First-Design .text-style-1 {
+    font-weight: normal;
+    color: #696871;
+  }
+  img.Icon {
+    width: 3.125rem;
+    height: 3.125rem;
+    object-fit: contain;
+  }
+  .Rectangle-3 {
+    width: 90rem;
+    height: 52.813rem;
+    margin: 0.375rem 0 0;
+    padding: 11.563rem 18.5rem 7.375rem 7.313rem;
+    background-color: #f7f7fb;
+  } 
+
+  .Customers-are-loving {
+    width: 29.875rem;
+    height: 7.875rem;
+    margin: 0 16.25rem 3.313rem 16.313rem;
+    font-family: CircularStd;
+    font-size: 3.375rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: -1.69px;
+    text-align: center;
+    color: var(--dark-grey);
+  }
+  img.BG {
+    width: 90rem;
+    height: 60.819rem;
+    margin: 0.75rem 0 0;
+    padding: 7.312rem 12.031rem 1.275rem 13.781rem;
+    object-fit: contain;
+  }
+  .white-curve-3 {
+    width: 90rem;
+    height: 6.875rem;
+    margin: 0 0 54.694rem;
+    background-color: var(--white);
+  }
+  .Get-started {
+    width: 29.563rem;
+    height: 3.938rem;
+    margin: 0 0.438rem 1.188rem 0.375rem;
+    font-family: CircularStd;
+    font-size: 3.375rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: -1.69px;
+    text-align: center;
+    color: var(--white);
+  }
+  .Create-custom-landin {
+    width: 29rem;
+    height: 6.563rem;
+    margin: 1.188rem 0.625rem 2.5rem 0.75rem;
+    font-family: CircularStd;
+    font-size: 1.181rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.86;
+    letter-spacing: -0.59px;
+    text-align: center;
+    color: var(--white-70);
+  }
+  .Rectangle {
+    width: 30.313rem;
+    height: 4rem;
+    padding: 1.438rem 24.063rem 1.313rem 1.688rem;
+    border-radius: 9px;
+    background-color: var(--white);
+  }
+  .Your-name {
+    width: 4.563rem;
+    height: 1.25rem;
+    font-family: CircularStd;
+    font-size: 1.013rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.51px;
+    color: #696871;
+  }
+  .Rectangle {
+    width: 30.313rem;
+    height: 4rem;
+    padding: 1.438rem 22.688rem 1.313rem 1.688rem;
+    border-radius: 9px;
+    background-color: var(--white);
+  }
+  .Email-address {
+    width: 5.938rem;
+    height: 1.25rem;
+    font-family: CircularStd;
+    font-size: 1.013rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.51px;
+    color: #696871;
+  }
+  .BG {
+    width: 30.125rem;
+    height: 3.375rem;
+    padding: 0.938rem 9.375rem 0.938rem 9.438rem;
+    border-radius: 9px;
+    border: solid 0.9px #c31a12;
+    background-color: #f04037;
+  }
+  .Get-Started {
+    width: 11.313rem;
+    height: 1.5rem;
+    font-family: CircularStd;
+    font-size: 1.181rem;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.59px;
+    text-align: center;
+    color: var(--white);
+  }
+  .Omega {
+    width: 4.438rem;
+    height: 1.75rem;
+    margin: 0 7.5rem 12.938rem 0;
+    font-family: CircularStd;
+    font-size: 1.35rem;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.68px;
+    color: var(--white);
+  }
+  .About {
+    width: 11.188rem;
+    height: 1.125rem;
+    margin: 0 0 1.25rem;
+    font-family: CircularStd;
+    font-size: 0.9rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.45px;
+    color: var(--white);
+  }
+  .Learn {
+    width: 11.188rem;
+    height: 1.125rem;
+    margin: 0 0 1.25rem;
+    font-family: CircularStd;
+    font-size: 0.9rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.45px;
+    color: var(--white);
+  }
+  .Stories {
+    width: 11.188rem;
+    height: 1.125rem;
+    margin: 0 0 1.25rem;
+    font-family: CircularStd;
+    font-size: 0.9rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.45px;
+    color: var(--white);
+  }
+  .Hire {
+    width: 11.188rem;
+    height: 1.125rem;
+    margin: 0 0 1.25rem;
+    font-family: CircularStd;
+    font-size: 0.9rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.45px;
+    color: var(--white);
+  }
+  .Our-mission-Our-stor {
+    width: 11.188rem;
+    height: 6.438rem;
+    margin: 1.25rem 0 0;
+    font-family: CircularStd;
+    font-size: 0.9rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.38;
+    letter-spacing: -0.45px;
+    color: var(--white-70);
+  }
+  .Our-mission-Our-stor {
+    width: 11.188rem;
+    height: 6.438rem;
+    margin: 1.25rem 0 0;
+    font-family: CircularStd;
+    font-size: 0.9rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.38;
+    letter-spacing: -0.45px;
+    color: var(--white-70);
+  }
+  .Tutorials-How-it-wor {
+    width: 11.188rem;
+    height: 6.438rem;
+    margin: 1.25rem 0 0;
+    font-family: CircularStd;
+    font-size: 0.9rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.38;
+    letter-spacing: -0.45px;
+    color: var(--white-70);
+  }
+  .Blog-Tech-stories {
+    width: 11.188rem;
+    height: 4.25rem;
+    margin: 1.25rem 0 0;
+    font-family: CircularStd;
+    font-size: 0.9rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.38;
+    letter-spacing: -0.45px;
+    color: var(--white-70);
+  }
+  .Career-Freelancers-T {
+    width: 11.188rem;
+    height: 6.438rem;
+    margin: 1.25rem 0 0;
+    font-family: CircularStd;
+    font-size: 0.9rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.38;
+    letter-spacing: -0.45px;
+    color: var(--white-70);
+  } 
+  .-\32 020-UXTheme-All {
+    width: 16.063rem;
+    height: 2.125rem;
+    margin: 1rem 41.625rem 0 0;
+    font-family: CircularStd;
+    font-size: 0.731rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.92;
+    letter-spacing: -0.37px;
+    color: var(--white-70);
+  }
